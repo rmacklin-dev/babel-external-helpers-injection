@@ -1,4 +1,4 @@
-import { log, logger } from "./logger1"
+import { log, logger } from "./logger2"
 
 const Foo = {}
 Foo.log = log
