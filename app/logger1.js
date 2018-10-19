@@ -9,6 +9,6 @@ const logger = {
   }
 }
 
-export const log = logger.log.bind(logger)
+//export const log = logger.log.bind(logger)
 
 export { logger }
